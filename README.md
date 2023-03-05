@@ -6,3 +6,6 @@ You have two duplicate files, one where you can visualize the recurrence of all 
 a) add a button to the user's preference. 
 b) add options to change seismic sources and geographic coordinates. 
 c) add a button to alter the recurrence according to the zone or study desired. 
+
+# To Branch fonts 
+Objetive: answer how many fonts do you have
